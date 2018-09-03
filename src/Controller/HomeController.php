@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Controller;
 
 use App\Service\DniGenerator;
@@ -16,7 +15,7 @@ class HomeController
         $dni = $dniGenerator->dni();
 
         return new Response(
-            '<html><body>DNI: '.$dni.'</body></html>'
+            '<html><body><h1>Generador aleatorio de DNI</h1><h2>DNI: '.$dni.'</h2></body></html>'
         );
     }
 }
