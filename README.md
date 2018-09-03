@@ -8,4 +8,4 @@ Symfony facilita mucho la utilización de servicios mediante la técnica de Type
 por lo que simplemente siguiendo un par de convenciones podrás reutilizar tu código y 
 evitar el acoplamiento.
 
-Te animo a visitar el tutorial completo en [http://galatar.com/symfony4-como-crear-y-utilizar-servicios]
+Te animo a visitar el tutorial completo en http://galatar.com/symfony4-como-crear-y-utilizar-servicios
